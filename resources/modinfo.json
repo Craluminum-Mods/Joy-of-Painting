@@ -4,7 +4,7 @@
   "name": "Joy of Painting",
   "authors": ["Moby_"],
   "description": "Adds the ability to make custom paintings from images",
-  "version": "1.3.0-pre.5",
+  "version": "1.4.0",
   "dependencies": {
     "game": ""
   }
